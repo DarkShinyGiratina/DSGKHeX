@@ -9,8 +9,8 @@
 
   <PropertyGroup>
     <PackageId>PKHeX</PackageId>
-    <AssemblyName>PKHeX</AssemblyName>
-    <Description>Pokémon Save Editor</Description>
+    <AssemblyName>SwelteringHeX</AssemblyName>
+    <Description>Pokémon Sweltering Sun Save Editor</Description>
     <ApplicationIcon>Resources\icon.ico</ApplicationIcon>
     <StartupObject>PKHeX.WinForms.Program</StartupObject>
     <RootNamespace>PKHeX.WinForms</RootNamespace>
@@ -25,6 +25,10 @@
     <PublishTrimmed>false</PublishTrimmed>
     <SelfContained>false</SelfContained>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\icon.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\PKHeX.Core\PKHeX.Core.csproj" />
