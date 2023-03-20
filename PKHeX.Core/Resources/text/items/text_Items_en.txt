@@ -48,7 +48,7 @@ Protein
 Iron
 Carbos
 Calcium
-Rare Candy
+Training Candy
 PP Up
 Zinc
 PP Max
@@ -167,12 +167,12 @@ Bluk Berry
 Nanab Berry
 Wepear Berry
 Pinap Berry
-Pomeg Berry
-Kelpsy Berry
-Qualot Berry
-Hondew Berry
-Grepa Berry
-Tamato Berry
+HP Berry
+Attack Berry
+Defense Berry
+Special Attack Berry
+Special Defense Berry
+Speed Berry
 Cornn Berry
 Magost Berry
 Rabuta Berry
@@ -664,7 +664,7 @@ Mewtwonite X
 Mewtwonite Y
 Blazikenite
 Medichamite
-Houndoominite
+Mega Stone II
 Aggronite
 Banettite
 Tyranitarite
@@ -761,7 +761,7 @@ Sharpedonite
 Slowbronite
 Steelixite
 Pidgeotite
-Glalitite
+Mega Stone I
 Diancite
 Prison Bottle
 Mega Cuff

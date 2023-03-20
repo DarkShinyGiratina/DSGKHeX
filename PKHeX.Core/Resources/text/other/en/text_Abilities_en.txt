@@ -12,7 +12,7 @@ Volt Absorb
 Water Absorb
 Oblivious
 Cloud Nine
-Compound Eyes
+Sixth Sense
 Insomnia
 Color Change
 Immunity
@@ -32,7 +32,7 @@ Natural Cure
 Lightning Rod
 Serene Grace
 Swift Swim
-Chlorophyll
+Solar Rush
 Illuminate
 Trace
 Huge Power
@@ -41,7 +41,7 @@ Inner Focus
 Magma Armor
 Water Veil
 Magnet Pull
-Soundproof
+Sinister
 Rain Dish
 Sand Stream
 Pressure
@@ -51,12 +51,12 @@ Flame Body
 Run Away
 Keen Eye
 Hyper Cutter
-Pickup
+Database
 Truant
 Hustle
 Cute Charm
-Plus
-Minus
+Interstellar
+Evoboost
 Forecast
 Sticky Hold
 Shed Skin
@@ -67,7 +67,7 @@ Overgrow
 Blaze
 Torrent
 Swarm
-Rock Head
+Headstrong
 Drought
 Arena Trap
 Vital Spirit
@@ -86,8 +86,8 @@ Unburden
 Heatproof
 Simple
 Dry Skin
-Download
-Iron Fist
+Instinct
+Amplifier
 Poison Heal
 Adaptability
 Skill Link
@@ -95,7 +95,7 @@ Hydration
 Solar Power
 Quick Feet
 Normalize
-Sniper
+Ruthless
 Magic Guard
 No Guard
 Stall
@@ -150,7 +150,7 @@ Analytic
 Illusion
 Imposter
 Infiltrator
-Mummy
+Debug
 Moxie
 Justified
 Rattled
@@ -165,8 +165,8 @@ Turboblaze
 Teravolt
 Aroma Veil
 Flower Veil
-Cheek Pouch
-Protean
+Metabolism
+Versatility
 Fur Coat
 Magician
 Bulletproof
@@ -177,19 +177,19 @@ Sweet Veil
 Stance Change
 Gale Wings
 Mega Launcher
-Grass Pelt
+Grassy Guard
 Symbiosis
 Tough Claws
 Pixilate
 Gooey
 Aerilate
-Parental Bond
+Expertise
 Dark Aura
 Fairy Aura
-Aura Break
-Primordial Sea
-Desolate Land
-Delta Stream
+Distortion
+Stormy Seas
+Sweltering Sun
+Guarding Gale
 Stamina
 Wimp Out
 Emergency Exit
@@ -197,15 +197,15 @@ Water Compaction
 Merciless
 Shields Down
 Stakeout
-Water Bubble
+Liquid Veil
 Steelworker
 Berserk
 Slush Rush
 Long Reach
 Liquid Voice
-Triage
+Rapid Fire
 Galvanize
-Surge Surfer
+Volt Rush
 Schooling
 Disguise
 Battle Bond
@@ -218,19 +218,19 @@ Dancer
 Battery
 Fluffy
 Dazzling
-Soul-Heart
+Hubris
 Tangling Hair
 Receiver
 Power of Alchemy
-Beast Boost
+Proficiency
 RKS System
 Electric Surge
 Psychic Surge
 Misty Surge
 Grassy Surge
-Full Metal Body
-Shadow Shield
-Prism Armor
+Bird's Eye View
+Energy Shield
+Resilient
 Neuroforce
 Intrepid Sword
 Dauntless Shield
