@@ -569,7 +569,7 @@ Spectrify
 Battle Cry
 Ion Deluge
 Parabolic Charge
-Forest’s Curse
+Forest's Curse
 Petal Blizzard
 Freeze-Dry
 Disarming Voice
@@ -586,7 +586,7 @@ Pixie Dust
 Moonblast
 Boomburst
 Fairy Lock
-King’s Shield
+King's Shield
 Play Nice
 Confide
 Mineral Shower
@@ -605,7 +605,7 @@ Happy Hour
 Electric Terrain
 Dazzling Gleam
 Celebrate
-befriend
+Befriend
 Baby-Doll Eyes
 Nuzzle
 Hold Back
@@ -614,7 +614,7 @@ Power-Up Punch
 Oblivion Beam
 Thousand Arrows
 Thousand Waves
-Land’s Wrath
+Land's Wrath
 Eternal Beam
 Torrential Pulse
 Precipice Blades
@@ -724,7 +724,7 @@ Twilight Cannon
 Light That Burns the Sky
 Searing Sunraze Smash
 Menacing Moonraze Maelstrom
-Let’s Snuggle Forever
+Let's Snuggle Forever
 Splintered Stormshards
 Clangorous Soulblaze
 Zippy Zap
