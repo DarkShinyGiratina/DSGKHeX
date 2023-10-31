@@ -49,7 +49,7 @@ Sing
 Supersonic
 Sonic Boom
 Disable
-Acid
+Acid Spray
 Ignite
 Flamethrower
 Mist
